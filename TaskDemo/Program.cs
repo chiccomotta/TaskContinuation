@@ -7,7 +7,7 @@ namespace TaskDemo
 {
     internal class Program
     {
-        private static readonly string url = "http://deelay.me/100/http://www.delsink.com";
+        private static readonly string url = "http://deelay.me/100/http://www.google.it";
         private static int count = 0;
 
         private static void Main()
